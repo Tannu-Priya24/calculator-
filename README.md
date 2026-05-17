@@ -20,8 +20,7 @@ This project helped me understand:
 - Basic calculator logic
 
 ## Screenshot
-
-![Calculator Screenshot](./screenshots/calculator.png)
+https://github.com/Tannu-Priya24/calculator-/blob/main/screenshots.png
 
 ## Created By
 Tannu Priya
